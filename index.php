@@ -26,9 +26,7 @@
         <p>zdhdfzgbzdr</p>
         <p>zdfgzdfg</p>
         <p>BKK</p>
-=======
         <p>BKK51</p>
->>>>>>> devkeng2
     </div>
 
 </body>
